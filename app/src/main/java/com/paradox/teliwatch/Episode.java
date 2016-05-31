@@ -10,7 +10,6 @@ public class Episode {
     //constructors
 
     public Episode() {
-        /*Test change comment.. ignore delete or do whatever you want with it */
         Title = null;
         Year = null;
         Rated = null;
